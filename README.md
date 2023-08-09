@@ -38,4 +38,4 @@ Following are l
 
 ![Conv2DFinalModel-Architecture](https://github.com/ShashankPawas/Gesture-Recognition-Assignment/blob/main/Conv2DFinalModel-Architecture/CNN_2d_CLSTM_model_6.png)
 
-[H5 Files](https://github.com/ShashankPawas/Gesture-Recognition-Assignment/blob/main/H5%20Files/model-00039-0.33804-0.87351-0.34433-0.91071.h5)
+H5 Files Link - https://github.com/ShashankPawas/Gesture-Recognition-Assignment/blob/main/H5%20Files/model-00039-0.33804-0.87351-0.34433-0.91071.h5
